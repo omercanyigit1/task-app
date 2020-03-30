@@ -447,6 +447,9 @@ body > .navbar-collapse[data-color="purple"]:after {
   .main-panel .navbar {
     margin-bottom: 0; }
 
+.auth-main-panel {
+  width: 100%; }
+
 .sidebar,
 .main-panel {
   -webkit-transition-property: top,bottom;

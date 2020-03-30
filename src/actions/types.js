@@ -1,4 +1,6 @@
-export const API_URL = "http://localhost:8000";
+//export const API_URL = "http://localhost:8000";
+//export const API_URL = "http://134.122.82.97:8000";
+export const API_URL = "https://omercan-task.herokuapp.com";
 
 export const LOGIN_USER_REQUEST = 'LOGIN_USER_REQUEST';
 export const LOGIN_USER_SUCCESS = 'LOGIN_USER_SUCCESS';
